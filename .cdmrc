@@ -1,2 +1,2 @@
 terminal-one: static-server -p 1337 --no-cache
-tabs: ['index.js']
+tabs: ['index.html']
